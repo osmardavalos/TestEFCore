@@ -1,0 +1,11 @@
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\bin\Debug\netcoreapp2.2\TestEFCore.deps.json
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\bin\Debug\netcoreapp2.2\TestEFCore.runtimeconfig.json
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\bin\Debug\netcoreapp2.2\TestEFCore.runtimeconfig.dev.json
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\bin\Debug\netcoreapp2.2\TestEFCore.dll
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\obj\Debug\netcoreapp2.2\TestEFCore.csprojAssemblyReference.cache
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\obj\Debug\netcoreapp2.2\TestEFCore.csproj.CoreCompileInputs.cache
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\obj\Debug\netcoreapp2.2\TestEFCore.AssemblyInfoInputs.cache
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\obj\Debug\netcoreapp2.2\TestEFCore.AssemblyInfo.cs
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\bin\Debug\netcoreapp2.2\TestEFCore.pdb
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\obj\Debug\netcoreapp2.2\TestEFCore.dll
+C:\Users\odavalos\Documents\PROYECTOS\TestEFCore\obj\Debug\netcoreapp2.2\TestEFCore.pdb
